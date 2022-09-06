@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dad49f02-d42c-40d7-bff7-77095f488cb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/HoverMenuOptionSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Pages/DropdownHover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Pages/PageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Pages/PageFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/DropdownHoverVerificatiom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/SignInLinkClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/SignInLinkClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Marks_and_Spencer/Test/UrlAndLandingPageVerification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Pages/DropdownHover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Pages/PageFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Pages/PageFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/DropdownHoverVerificatiom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/SignInLinkClick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/SignInLinkClick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Marks_and_Spencer/Test/UrlAndLandingPageVerification.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EAGa1e5ytlMjP24Le6a3lHfe87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Selenium&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OrangeHrm\config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SignInLinkClick">
+    <configuration name="HoverMenuOptionSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks_and_Spencer.Test.HoverMenuOptionSelect" />
+      <module name="Assignment - Copy (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Marks_and_Spencer.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInLinkClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks_and_Spencer.Test.SignInLinkClick" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Marks_and_Spencer.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlAndLandingPageVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marks_and_Spencer.Test.UrlAndLandingPageVerification" />
+      <module name="Assignment - Copy (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Marks_and_Spencer.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoverMenuOptionSelect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Assignment - Copy (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Marks_and_Spencer.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Marks_and_Spencer.Test" />
+      <option name="MAIN_CLASS_NAME" value="Marks_and_Spencer.Test.HoverMenuOptionSelect" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInLinkClick" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Assignment - Copy (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Marks_and_Spencer.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Marks_and_Spencer.Test" />
+      <option name="MAIN_CLASS_NAME" value="Marks_and_Spencer.Test.SignInLinkClick" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignInLinkClick" />
+        <item itemvalue="TestNG.HoverMenuOptionSelect" />
+        <item itemvalue="Application.UrlAndLandingPageVerification" />
+        <item itemvalue="Application.HoverMenuOptionSelect" />
+        <item itemvalue="Application.SignInLinkClick" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad49f02-d42c-40d7-bff7-77095f488cb9" name="Changes" comment="" />
+      <created>1662031036256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662031036256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
